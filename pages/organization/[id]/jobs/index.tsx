@@ -14,9 +14,12 @@ function JobBoard({ organizationId, products, totalProducts, currentPage }: any)
 }
 
 export async function getStaticPaths() {
+	const organizations = ['org1', 'org2'] // get from DB
 	return {
-		paths: [{ params: { id: 'org1' } }, { params: { id: 'org2' } }],
-		fallback: false, // can be true | false | 'blocking'
+		paths: organizations.map(organization => ({
+			params: { id: organization }
+		})),
+		fallback: 'blocking', // can be true | false | 'blocking'
 		// return 404 if organization doesn't exists
 	}
 }
@@ -36,7 +39,7 @@ export const getStaticProps: GetStaticProps = async (context) => {
 			totalProducts: total,
 			currentPage: 1,
 		},
-		revalidate: 60 * 60, // <--- ISR cache: once every hour
+		revalidate: 60 * 30, // <--- ISR cache: once every 30 mint
 	}
 }
 

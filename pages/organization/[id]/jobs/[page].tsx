@@ -55,13 +55,16 @@ export const getStaticProps: GetStaticProps = async ({ params }: GetStaticPropsC
 			totalProducts: total,
 			currentPage: page,
 		},
-		revalidate: 60 * 60, // <--- ISR cache: once every hour
+		revalidate: 60 * 30, // <--- ISR cache: once every 30 mint
 	}
 }
 
 export async function getStaticPaths() {
+	const organizations = ['org1', 'org2'] // get from DB
 	return {
-		paths: [{ params: { id: 'org1', page: '2' } }, { params: { id: 'org1', page: '3' } }, { params: { id: 'org2', page: '2' } }, { params: { id: 'org2', page: '3' } }],
+		paths: organizations.map(organization => ({
+			params: { id: organization, page: '2' } // pre building upto page 2, page 1 prebuild taken cared by index.tsx
+		})),
 		fallback: 'blocking', // can be true | false | 'blocking'
 	}
 }

@@ -1,7 +1,7 @@
 import { GetStaticPaths, GetStaticProps, GetStaticPropsContext } from 'next'
 import { Layout, Page } from '@vercel/examples-ui'
 
-function JobDetail({ job }) {
+function JobDetail({ job }: {job: {id: number, title: string}}) {
 	return (
 		<Page>
 			<h1>JOB Detail</h1>
@@ -13,8 +13,8 @@ function JobDetail({ job }) {
 export const getStaticPaths: GetStaticPaths = async () => {
 	return {
 		// Prerender these slug pages
-		// Other pages will be prerendered at runtime.
-		paths: [{ params: { id: 'org1', slug: 'slug1' } }, { params: { id: 'org1', slug: 'slug2' } }, { params: { id: 'org2', slug: 'slug1' } }, { params: { id: 'org2', slug: 'slug2' } }],
+		// Other pages will be prerendered at runtime then cached.
+		paths: [],
 		fallback: 'blocking', // can be true | false | 'blocking'
 		// if job detail page doesn't exists in previous static build then do a blocking SSR
 		// after SSR this page is also cached
