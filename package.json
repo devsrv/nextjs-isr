@@ -1,7 +1,9 @@
 {
-  "repository": "https://github.com/vercel/examples.git",
+  "repository": "https://github.com/devsrv/next-js-isr.git",
+  "description": "A demo of NextJS 13 SSG/ISR for dynamic nested routes",
+  "author": "Sourav Rakshit <hello@itsrav.dev> (https://twitter.com/srvrksh)",
   "license": "MIT",
-  "private": true,
+  "private": false,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
