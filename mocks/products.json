@@ -1,501 +1,601 @@
 [
   {
     "name": "orci",
+    "slug": "slug1",
     "description": "magnis dis parturient montes nascetur ridiculus mus etiam vel augue vestibulum rutrum rutrum neque aenean auctor gravida sem praesent id",
     "price": 99.66
   },
   {
     "name": "justo",
+    "slug": "slug2",
     "description": "faucibus accumsan odio curabitur convallis duis consequat dui nec nisi volutpat eleifend donec ut dolor morbi vel lectus in quam",
     "price": 99.8
   },
   {
-    "name": "venenatis",
+    "name": "ERROR PRODUCT",
+    "slug": "error-slug",
     "description": "rutrum neque aenean auctor gravida sem praesent id massa id nisl venenatis lacinia aenean sit amet justo morbi ut odio",
     "price": 21.86
   },
   {
     "name": "curae",
+    "slug": "slug2",
     "description": "justo in blandit ultrices enim lorem ipsum dolor sit amet consectetuer adipiscing elit proin interdum mauris non ligula pellentesque ultrices",
     "price": 63.2
   },
   {
     "name": "blandit",
+    "slug": "slug1",
     "description": "aliquam augue quam sollicitudin vitae consectetuer eget rutrum at lorem integer tincidunt ante vel ipsum praesent blandit lacinia erat vestibulum",
     "price": 5.97
   },
   {
     "name": "orci",
+    "slug": "slug1",
     "description": "curabitur at ipsum ac tellus semper interdum mauris ullamcorper purus sit amet nulla quisque arcu libero rutrum ac lobortis vel",
     "price": 58.03
   },
   {
     "name": "leo",
+    "slug": "slug1",
     "description": "sed lacus morbi sem mauris laoreet ut rhoncus aliquet pulvinar sed nisl nunc rhoncus dui vel sem sed sagittis nam",
     "price": 43.13
   },
   {
     "name": "sapien",
+    "slug": "slug1",
     "description": "morbi porttitor lorem id ligula suspendisse ornare consequat lectus in est risus auctor sed tristique in tempus sit amet sem",
     "price": 64.11
   },
   {
     "name": "convallis",
+    "slug": "slug1",
     "description": "nibh quisque id justo sit amet sapien dignissim vestibulum vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere",
     "price": 95.82
   },
   {
     "name": "sed",
+    "slug": "slug1",
     "description": "nibh in quis justo maecenas rhoncus aliquam lacus morbi quis tortor id nulla ultrices aliquet maecenas leo odio condimentum id",
     "price": 94.66
   },
   {
     "name": "feugiat",
+    "slug": "slug1",
     "description": "adipiscing elit proin interdum mauris non ligula pellentesque ultrices phasellus id sapien in sapien iaculis congue vivamus metus arcu adipiscing",
     "price": 83.52
   },
   {
     "name": "potenti",
+    "slug": "slug1",
     "description": "lobortis convallis tortor risus dapibus augue vel accumsan tellus nisi eu orci mauris lacinia sapien quis libero nullam sit amet",
     "price": 16.76
   },
   {
     "name": "sed",
+    "slug": "slug1",
     "description": "in quam fringilla rhoncus mauris enim leo rhoncus sed vestibulum sit amet cursus id turpis integer aliquet massa id lobortis",
     "price": 39.36
   },
   {
     "name": "vulputate",
+    "slug": "slug1",
     "description": "sit amet diam in magna bibendum imperdiet nullam orci pede venenatis non sodales sed tincidunt eu felis fusce posuere felis",
     "price": 54.9
   },
   {
     "name": "nulla",
+    "slug": "slug1",
     "description": "integer non velit donec diam neque vestibulum eget vulputate ut ultrices vel augue vestibulum ante ipsum primis in faucibus orci",
     "price": 53.19
   },
   {
     "name": "non",
+    "slug": "slug1",
     "description": "est lacinia nisi venenatis tristique fusce congue diam id ornare imperdiet sapien urna pretium nisl ut volutpat sapien arcu sed",
     "price": 22.18
   },
   {
     "name": "dui",
+    "slug": "slug1",
     "description": "dictumst aliquam augue quam sollicitudin vitae consectetuer eget rutrum at lorem integer tincidunt ante vel ipsum praesent blandit lacinia erat",
     "price": 11.93
   },
   {
     "name": "vestibulum",
+    "slug": "slug1",
     "description": "amet cursus id turpis integer aliquet massa id lobortis convallis tortor risus dapibus augue vel accumsan tellus nisi eu orci",
     "price": 72.49
   },
   {
     "name": "non",
+    "slug": "slug1",
     "description": "at feugiat non pretium quis lectus suspendisse potenti in eleifend quam a odio in hac habitasse platea dictumst maecenas ut",
     "price": 1.19
   },
   {
     "name": "amet",
+    "slug": "slug1",
     "description": "eu tincidunt in leo maecenas pulvinar lobortis est phasellus sit amet erat nulla tempus vivamus in felis eu sapien cursus",
     "price": 46.77
   },
   {
     "name": "non",
+    "slug": "slug1",
     "description": "quam sapien varius ut blandit non interdum in ante vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere",
     "price": 50.08
   },
   {
     "name": "pede",
+    "slug": "slug1",
     "description": "euismod scelerisque quam turpis adipiscing lorem vitae mattis nibh ligula nec sem duis aliquam convallis nunc proin at turpis a",
     "price": 69.2
   },
   {
     "name": "interdum",
+    "slug": "slug1",
     "description": "hac habitasse platea dictumst maecenas ut massa quis augue luctus tincidunt nulla mollis molestie lorem quisque ut erat curabitur gravida",
     "price": 56.99
   },
   {
     "name": "dapibus",
+    "slug": "slug1",
     "description": "duis mattis egestas metus aenean fermentum donec ut mauris eget massa tempor convallis nulla neque libero convallis eget eleifend luctus",
     "price": 59.45
   },
   {
     "name": "justo",
+    "slug": "slug1",
     "description": "diam erat fermentum justo nec condimentum neque sapien placerat ante nulla justo aliquam quis turpis eget elit sodales scelerisque mauris",
     "price": 86.39
   },
   {
     "name": "duis",
+    "slug": "slug1",
     "description": "ligula sit amet eleifend pede libero quis orci nullam molestie nibh in lectus pellentesque at nulla suspendisse potenti cras in",
     "price": 18.08
   },
   {
     "name": "nisl",
+    "slug": "slug1",
     "description": "sit amet eleifend pede libero quis orci nullam molestie nibh in lectus pellentesque at nulla suspendisse potenti cras in purus",
     "price": 14.92
   },
   {
     "name": "lectus",
+    "slug": "slug1",
     "description": "consequat varius integer ac leo pellentesque ultrices mattis odio donec vitae nisi nam ultrices libero non mattis pulvinar nulla pede",
     "price": 50.99
   },
   {
     "name": "ipsum",
+    "slug": "slug1",
     "description": "nisl duis bibendum felis sed interdum venenatis turpis enim blandit mi in porttitor pede justo eu massa donec dapibus duis",
     "price": 93.92
   },
   {
     "name": "congue",
+    "slug": "slug1",
     "description": "nonummy integer non velit donec diam neque vestibulum eget vulputate ut ultrices vel augue vestibulum ante ipsum primis in faucibus",
     "price": 27.72
   },
   {
     "name": "tempus",
+    "slug": "slug1",
     "description": "justo sit amet sapien dignissim vestibulum vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae nulla",
     "price": 55.39
   },
   {
     "name": "velit",
+    "slug": "slug1",
     "description": "consectetuer eget rutrum at lorem integer tincidunt ante vel ipsum praesent blandit lacinia erat vestibulum sed magna at nunc commodo",
     "price": 47.61
   },
   {
     "name": "congue",
+    "slug": "slug1",
     "description": "felis sed interdum venenatis turpis enim blandit mi in porttitor pede justo eu massa donec dapibus duis at velit eu",
     "price": 33.08
   },
   {
     "name": "felis",
+    "slug": "slug1",
     "description": "at feugiat non pretium quis lectus suspendisse potenti in eleifend quam a odio in hac habitasse platea dictumst maecenas ut",
     "price": 49.4
   },
   {
     "name": "aliquet",
+    "slug": "slug1",
     "description": "aliquam convallis nunc proin at turpis a pede posuere nonummy integer non velit donec diam neque vestibulum eget vulputate ut",
     "price": 27.3
   },
   {
     "name": "hendrerit",
+    "slug": "slug1",
     "description": "sit amet diam in magna bibendum imperdiet nullam orci pede venenatis non sodales sed tincidunt eu felis fusce posuere felis",
     "price": 61.9
   },
   {
     "name": "sapien",
+    "slug": "slug1",
     "description": "in blandit ultrices enim lorem ipsum dolor sit amet consectetuer adipiscing elit proin interdum mauris non ligula pellentesque ultrices phasellus",
     "price": 62.95
   },
   {
     "name": "aliquet",
+    "slug": "slug1",
     "description": "pretium iaculis diam erat fermentum justo nec condimentum neque sapien placerat ante nulla justo aliquam quis turpis eget elit sodales",
     "price": 71.54
   },
   {
     "name": "nonummy",
+    "slug": "slug1",
     "description": "tortor sollicitudin mi sit amet lobortis sapien sapien non mi integer ac neque duis bibendum morbi non quam nec dui",
     "price": 56.07
   },
   {
     "name": "dolor",
+    "slug": "slug1",
     "description": "pulvinar lobortis est phasellus sit amet erat nulla tempus vivamus in felis eu sapien cursus vestibulum proin eu mi nulla",
     "price": 24.39
   },
   {
     "name": "in",
+    "slug": "slug1",
     "description": "rutrum nulla nunc purus phasellus in felis donec semper sapien a libero nam dui proin leo odio porttitor id consequat",
     "price": 62.34
   },
   {
     "name": "sapien",
+    "slug": "slug1",
     "description": "adipiscing elit proin risus praesent lectus vestibulum quam sapien varius ut blandit non interdum in ante vestibulum ante ipsum primis",
     "price": 51.4
   },
   {
     "name": "id",
+    "slug": "slug1",
     "description": "nisl nunc nisl duis bibendum felis sed interdum venenatis turpis enim blandit mi in porttitor pede justo eu massa donec",
     "price": 32.04
   },
   {
     "name": "tortor",
+    "slug": "slug1",
     "description": "purus eu magna vulputate luctus cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus vivamus vestibulum sagittis",
     "price": 14.72
   },
   {
     "name": "porttitor",
+    "slug": "slug1",
     "description": "neque aenean auctor gravida sem praesent id massa id nisl venenatis lacinia aenean sit amet justo morbi ut odio cras",
     "price": 11.07
   },
   {
     "name": "curae",
+    "slug": "slug1",
     "description": "imperdiet sapien urna pretium nisl ut volutpat sapien arcu sed augue aliquam erat volutpat in congue etiam justo etiam pretium",
     "price": 57.64
   },
   {
     "name": "eleifend",
+    "slug": "slug1",
     "description": "quis orci nullam molestie nibh in lectus pellentesque at nulla suspendisse potenti cras in purus eu magna vulputate luctus cum",
     "price": 50.9
   },
   {
     "name": "donec",
+    "slug": "slug1",
     "description": "faucibus orci luctus et ultrices posuere cubilia curae mauris viverra diam vitae quam suspendisse potenti nullam porttitor lacus at turpis",
     "price": 8.57
   },
   {
     "name": "duis",
+    "slug": "slug1",
     "description": "morbi vel lectus in quam fringilla rhoncus mauris enim leo rhoncus sed vestibulum sit amet cursus id turpis integer aliquet",
     "price": 49.41
   },
   {
     "name": "erat",
+    "slug": "slug1",
     "description": "et magnis dis parturient montes nascetur ridiculus mus etiam vel augue vestibulum rutrum rutrum neque aenean auctor gravida sem praesent",
     "price": 28.19
   },
   {
     "name": "vestibulum",
+    "slug": "slug1",
     "description": "felis sed interdum venenatis turpis enim blandit mi in porttitor pede justo eu massa donec dapibus duis at velit eu",
     "price": 92.8
   },
   {
     "name": "tortor",
+    "slug": "slug1",
     "description": "sapien dignissim vestibulum vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae nulla dapibus dolor vel",
     "price": 7.08
   },
   {
     "name": "consequat",
+    "slug": "slug1",
     "description": "non mi integer ac neque duis bibendum morbi non quam nec dui luctus rutrum nulla tellus in sagittis dui vel",
     "price": 60.08
   },
   {
     "name": "mattis",
+    "slug": "slug1",
     "description": "donec diam neque vestibulum eget vulputate ut ultrices vel augue vestibulum ante ipsum primis in faucibus orci luctus et ultrices",
     "price": 52.49
   },
   {
     "name": "elementum",
+    "slug": "slug1",
     "description": "eu mi nulla ac enim in tempor turpis nec euismod scelerisque quam turpis adipiscing lorem vitae mattis nibh ligula nec",
     "price": 68.43
   },
   {
     "name": "in",
+    "slug": "slug1",
     "description": "fusce consequat nulla nisl nunc nisl duis bibendum felis sed interdum venenatis turpis enim blandit mi in porttitor pede justo",
     "price": 22.93
   },
   {
     "name": "viverra",
+    "slug": "slug1",
     "description": "amet eleifend pede libero quis orci nullam molestie nibh in lectus pellentesque at nulla suspendisse potenti cras in purus eu",
     "price": 10.23
   },
   {
     "name": "blandit",
+    "slug": "slug1",
     "description": "suscipit a feugiat et eros vestibulum ac est lacinia nisi venenatis tristique fusce congue diam id ornare imperdiet sapien urna",
     "price": 20.89
   },
   {
     "name": "vestibulum",
+    "slug": "slug1",
     "description": "in sagittis dui vel nisl duis ac nibh fusce lacus purus aliquet at feugiat non pretium quis lectus suspendisse potenti",
     "price": 68.2
   },
   {
     "name": "nulla",
+    "slug": "slug1",
     "description": "velit donec diam neque vestibulum eget vulputate ut ultrices vel augue vestibulum ante ipsum primis in faucibus orci luctus et",
     "price": 76.7
   },
   {
     "name": "curabitur",
+    "slug": "slug1",
     "description": "platea dictumst morbi vestibulum velit id pretium iaculis diam erat fermentum justo nec condimentum neque sapien placerat ante nulla justo",
     "price": 45.44
   },
   {
     "name": "ornare",
+    "slug": "slug1",
     "description": "eros vestibulum ac est lacinia nisi venenatis tristique fusce congue diam id ornare imperdiet sapien urna pretium nisl ut volutpat",
     "price": 72.98
   },
   {
     "name": "vestibulum",
+    "slug": "slug1",
     "description": "vulputate ut ultrices vel augue vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae donec pharetra",
     "price": 35.91
   },
   {
     "name": "fermentum",
+    "slug": "slug1",
     "description": "quam turpis adipiscing lorem vitae mattis nibh ligula nec sem duis aliquam convallis nunc proin at turpis a pede posuere",
     "price": 39.92
   },
   {
     "name": "nam",
+    "slug": "slug1",
     "description": "et commodo vulputate justo in blandit ultrices enim lorem ipsum dolor sit amet consectetuer adipiscing elit proin interdum mauris non",
     "price": 69.84
   },
   {
     "name": "erat",
+    "slug": "slug1",
     "description": "viverra pede ac diam cras pellentesque volutpat dui maecenas tristique est et tempus semper est quam pharetra magna ac consequat",
     "price": 58.74
   },
   {
     "name": "feugiat",
+    "slug": "slug1",
     "description": "duis bibendum felis sed interdum venenatis turpis enim blandit mi in porttitor pede justo eu massa donec dapibus duis at",
     "price": 17.5
   },
   {
     "name": "nullam",
+    "slug": "slug1",
     "description": "pede venenatis non sodales sed tincidunt eu felis fusce posuere felis sed lacus morbi sem mauris laoreet ut rhoncus aliquet",
     "price": 18.33
   },
   {
     "name": "a",
+    "slug": "slug1",
     "description": "penatibus et magnis dis parturient montes nascetur ridiculus mus etiam vel augue vestibulum rutrum rutrum neque aenean auctor gravida sem",
     "price": 71.84
   },
   {
     "name": "maecenas",
+    "slug": "slug1",
     "description": "turpis a pede posuere nonummy integer non velit donec diam neque vestibulum eget vulputate ut ultrices vel augue vestibulum ante",
     "price": 2.01
   },
   {
     "name": "habitasse",
+    "slug": "slug1",
     "description": "varius nulla facilisi cras non velit nec nisi vulputate nonummy maecenas tincidunt lacus at velit vivamus vel nulla eget eros",
     "price": 19.32
   },
   {
     "name": "felis",
+    "slug": "slug1",
     "description": "consequat metus sapien ut nunc vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae mauris viverra",
     "price": 30.62
   },
   {
     "name": "lectus",
+    "slug": "slug1",
     "description": "duis aliquam convallis nunc proin at turpis a pede posuere nonummy integer non velit donec diam neque vestibulum eget vulputate",
     "price": 35.27
   },
   {
     "name": "gravida",
+    "slug": "slug1",
     "description": "ultrices mattis odio donec vitae nisi nam ultrices libero non mattis pulvinar nulla pede ullamcorper augue a suscipit nulla elit",
     "price": 74.24
   },
   {
     "name": "eu",
+    "slug": "slug1",
     "description": "vestibulum quam sapien varius ut blandit non interdum in ante vestibulum ante ipsum primis in faucibus orci luctus et ultrices",
     "price": 84.41
   },
   {
     "name": "dis",
+    "slug": "slug1",
     "description": "amet diam in magna bibendum imperdiet nullam orci pede venenatis non sodales sed tincidunt eu felis fusce posuere felis sed",
     "price": 68.14
   },
   {
     "name": "orci",
+    "slug": "slug1",
     "description": "posuere metus vitae ipsum aliquam non mauris morbi non lectus aliquam sit amet diam in magna bibendum imperdiet nullam orci",
     "price": 77.49
   },
   {
     "name": "bibendum",
+    "slug": "slug1",
     "description": "convallis tortor risus dapibus augue vel accumsan tellus nisi eu orci mauris lacinia sapien quis libero nullam sit amet turpis",
     "price": 45.67
   },
   {
     "name": "eu",
+    "slug": "slug1",
     "description": "integer pede justo lacinia eget tincidunt eget tempus vel pede morbi porttitor lorem id ligula suspendisse ornare consequat lectus in",
     "price": 96.4
   },
   {
     "name": "nec",
+    "slug": "slug1",
     "description": "proin eu mi nulla ac enim in tempor turpis nec euismod scelerisque quam turpis adipiscing lorem vitae mattis nibh ligula",
     "price": 24.32
   },
   {
     "name": "rutrum",
+    "slug": "slug1",
     "description": "adipiscing elit proin interdum mauris non ligula pellentesque ultrices phasellus id sapien in sapien iaculis congue vivamus metus arcu adipiscing",
     "price": 71.07
   },
   {
     "name": "nibh",
+    "slug": "slug1",
     "description": "lacus at velit vivamus vel nulla eget eros elementum pellentesque quisque porta volutpat erat quisque erat eros viverra eget congue",
     "price": 56.26
   },
   {
     "name": "libero",
+    "slug": "slug1",
     "description": "habitasse platea dictumst etiam faucibus cursus urna ut tellus nulla ut erat id mauris vulputate elementum nullam varius nulla facilisi",
     "price": 41.17
   },
   {
     "name": "est",
+    "slug": "slug1",
     "description": "nisi nam ultrices libero non mattis pulvinar nulla pede ullamcorper augue a suscipit nulla elit ac nulla sed vel enim",
     "price": 12.53
   },
   {
     "name": "tellus",
+    "slug": "slug1",
     "description": "duis consequat dui nec nisi volutpat eleifend donec ut dolor morbi vel lectus in quam fringilla rhoncus mauris enim leo",
     "price": 32.24
   },
   {
     "name": "in",
+    "slug": "slug1",
     "description": "duis faucibus accumsan odio curabitur convallis duis consequat dui nec nisi volutpat eleifend donec ut dolor morbi vel lectus in",
     "price": 70.05
   },
   {
     "name": "ante",
+    "slug": "slug1",
     "description": "integer aliquet massa id lobortis convallis tortor risus dapibus augue vel accumsan tellus nisi eu orci mauris lacinia sapien quis",
     "price": 81.58
   },
   {
     "name": "rutrum",
+    "slug": "slug1",
     "description": "lectus vestibulum quam sapien varius ut blandit non interdum in ante vestibulum ante ipsum primis in faucibus orci luctus et",
     "price": 82.0
   },
   {
     "name": "et",
+    "slug": "slug1",
     "description": "non sodales sed tincidunt eu felis fusce posuere felis sed lacus morbi sem mauris laoreet ut rhoncus aliquet pulvinar sed",
     "price": 45.64
   },
   {
     "name": "venenatis",
+    "slug": "slug1",
     "description": "tempor convallis nulla neque libero convallis eget eleifend luctus ultricies eu nibh quisque id justo sit amet sapien dignissim vestibulum",
     "price": 1.02
   },
   {
     "name": "erat",
+    "slug": "slug1",
     "description": "elit proin interdum mauris non ligula pellentesque ultrices phasellus id sapien in sapien iaculis congue vivamus metus arcu adipiscing molestie",
     "price": 64.27
   },
   {
     "name": "nunc",
+    "slug": "slug1",
     "description": "massa donec dapibus duis at velit eu est congue elementum in hac habitasse platea dictumst morbi vestibulum velit id pretium",
     "price": 81.3
   },
   {
     "name": "quam",
+    "slug": "slug1",
     "description": "at nibh in hac habitasse platea dictumst aliquam augue quam sollicitudin vitae consectetuer eget rutrum at lorem integer tincidunt ante",
     "price": 67.46
   },
   {
     "name": "auctor",
+    "slug": "slug1",
     "description": "consequat morbi a ipsum integer a nibh in quis justo maecenas rhoncus aliquam lacus morbi quis tortor id nulla ultrices",
     "price": 94.75
   },
   {
     "name": "tellus",
+    "slug": "slug1",
     "description": "accumsan tellus nisi eu orci mauris lacinia sapien quis libero nullam sit amet turpis elementum ligula vehicula consequat morbi a",
     "price": 85.9
   },
   {
     "name": "natoque",
+    "slug": "slug1",
     "description": "vestibulum sagittis sapien cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus etiam vel augue vestibulum rutrum",
     "price": 75.41
   },
   {
     "name": "in",
+    "slug": "slug1",
     "description": "nullam varius nulla facilisi cras non velit nec nisi vulputate nonummy maecenas tincidunt lacus at velit vivamus vel nulla eget",
     "price": 59.82
   },
   {
     "name": "dolor",
+    "slug": "slug1",
     "description": "pede venenatis non sodales sed tincidunt eu felis fusce posuere felis sed lacus morbi sem mauris laoreet ut rhoncus aliquet",
     "price": 97.31
   },
   {
     "name": "quam",
+    "slug": "slug1",
     "description": "erat nulla tempus vivamus in felis eu sapien cursus vestibulum proin eu mi nulla ac enim in tempor turpis nec",
     "price": 37.92
   },
   {
     "name": "vestibulum",
+    "slug": "slug1",
     "description": "lacinia sapien quis libero nullam sit amet turpis elementum ligula vehicula consequat morbi a ipsum integer a nibh in quis",
     "price": 2.17
   }
